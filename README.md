@@ -3,17 +3,3 @@ The article "[Negative Label Is Also Useful: Negative-Driven Propagations for Pa
 
 ## Flow chart
 <img src='./flowplot.png' width=800>
-
-## Citing
-If you find this code useful, please consider to cite our work.
-```
-@article{zhong2024negative,
-  title={Negative Label and Noise Information Guided Disambiguation for Partial Multi-Label Learning},
-  author={Zhong, Jingyu and Shang, Ronghua and Zhao, Feng and Zhang, Weitong and Xu, Songhua},
-  journal={IEEE Transactions on Multimedia},
-  year={2024},
-  volume={26},
-  pages={9920-9935},
-  publisher={IEEE}
-}
-```
